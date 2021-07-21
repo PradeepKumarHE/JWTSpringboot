@@ -1,2 +1,2 @@
 # JWTSpringboot
-Just basic jwt
+Generating web token Using Spring boot by Username
